@@ -3,4 +3,4 @@
 Documentation    Arquivo de Variaveis
 
 *** Variables ***
-${BROWSER}    
+${BROWSER}    chromium    
