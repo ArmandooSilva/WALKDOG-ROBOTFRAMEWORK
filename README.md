@@ -30,7 +30,7 @@ Este projeto tem como objetivo automatizar testes funcionais do site **https://w
 
 1. robot -d ./results ./tests/hello.robot
 2. robot -d ./results ./tests/home.robot
-3. robot -d ./results ./tests/sinup.robot
+3. robot -d ./results ./tests/signup.robot
 
 ---
 ## 📜 Relatórios
