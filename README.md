@@ -28,5 +28,5 @@ Os testes abrangem:
 
 ### 🔹 1. Clone o repositório
 ```bash
-git clone https://github.com/ArmandooSilva/WALLDOG-ROBOT.git
-cd WALLDOG-ROBOT
+git clone https://github.com/ArmandooSilva/WALKDOG-ROBOTFRAMEWORK/.git
+cd WALKDOG-ROBOTFRAMEWORK
